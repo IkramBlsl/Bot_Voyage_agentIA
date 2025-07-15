@@ -36,27 +36,6 @@ créer un chatbot local qui:
 - fontionne dans le terminal
 - répond à tes questions jusqu'à ce que tu tapes exit
 
-## 📁 Structure du projet
-
-mon_agent_llm/
-│
-├── agent.py # Script principal du chatbot
-├── .env # Contient la clé API Hugging Face
-├── requirements.txt # Dépendances du projet
-└── README.md # Documentation du projet (toi ici 🧠)
-
-
-mon_agent_llm/
-│
-├── agent.py # Agent dans le terminal
-├── app.py / test.py # Interface Streamlit (chat visuel + RAG)
-├── base_voyage.txt # Base de données texte pour le RAG
-├── .env # Contient la clé API Hugging Face
-├── requirements.txt # Dépendances Python
-└── README.md # Ce fichier 🧠
-
-
-
 ---
 
 ## 💻 Technologies utilisées
