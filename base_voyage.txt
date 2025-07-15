@@ -1,0 +1,10 @@
+﻿Pays;question;reponse
+Japon;Quels documents faut-il pour aller au Japon ?;Pour un séjour de moins de 90 jours, les citoyens français n'ont pas besoin de visa. Un passeport valide suffit.
+Japon;Quelle est la meilleure période pour visiter le Japon ?;Le printemps (mars-mai) pour les cerisiers en fleurs et l’automne (septembre-novembre) pour les érables rouges.
+Japon;Quels sont les lieux à visiter au Japon ?;Kyoto, Tokyo, Osaka, le Mont Fuji, Hiroshima, Nara, les temples bouddhistes et les onsen.
+Espagne;Quelle est la capitale de l’Espagne ?;Madrid est la capitale de l’Espagne.
+Espagne;Quelle est la meilleure période pour visiter l’Espagne ?;Avril à juin et septembre-octobre, pour éviter la chaleur estivale.
+Espagne;Quelles sont les spécialités culinaires espagnoles ?;La paella, les tapas, la tortilla espagnole, le jamón ibérico, la sangria.
+Maroc;Quels documents sont nécessaires pour le Maroc ?;Un passeport valide suffit pour les séjours touristiques de moins de 90 jours.
+Maroc;Quelle est la monnaie du Maroc ?;Le dirham marocain (MAD).
+Maroc;Que visiter au Maroc ?;Marrakech, Fès, Chefchaouen, le désert du Sahara, Essaouira, les montagnes de l’Atlas.
