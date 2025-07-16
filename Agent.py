@@ -124,7 +124,17 @@ st.markdown(f"""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("💬 VoyageBot - Assistant de voyage")
+#st.title("✈️ Bot Voyage - pour un bon voyage")
+
+st.markdown("""
+    <h1 style='color: #B66878; font-size: 3em;'>
+        ✈️ BotVoyage
+        <span style='font-size: 0.6em; font-style: italic; color: #666666;'>
+            — pour un bon voyage
+        </span>
+    </h1>
+""", unsafe_allow_html=True)
+
 
 # 💬 Historique des messages
 if "messages" not in st.session_state:
