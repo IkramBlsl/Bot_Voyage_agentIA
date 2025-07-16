@@ -202,3 +202,7 @@ HF_TOKEN=hf_your_personal_token
 ```bash
 Streamlit run agent.py
 ```
+
+
+## Overview du chatbot
+<img width="1013" height="561" alt="image" src="https://github.com/user-attachments/assets/4e818dfd-9456-46f0-8076-6d4daa255cbb" />
