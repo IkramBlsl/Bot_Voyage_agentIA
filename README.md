@@ -1,4 +1,4 @@
-# 🧠 Mon Agent LLM (gratuit avec Hugging Face)
+# 🧠 Mon Agent LLM (avec Hugging Face)
 
 Ce projet est un **agent conversationnel intelligent**, construit avec un modèle LLM open-source hébergé sur Hugging Face et enrichi par une base de connaissances via RAG (Retrieval-Augmented Generation).
 
@@ -106,8 +106,8 @@ FAISS permet une recherche vectorielle rapide et efficace, en comparant les embe
 
 # 🇬🇧 English Version – `README.md`
 
-```markdown
-# 🧠 My LLM Agent (Free with Hugging Face + RAG)
+
+# 🧠 My LLM Agent (with Hugging Face + RAG)
 
 This project is a **simple conversational agent** powered by an open-source LLM hosted on Hugging Face and enhanced with a local knowledge base using RAG (Retrieval-Augmented Generation).
 
@@ -202,3 +202,7 @@ HF_TOKEN=hf_your_personal_token
 ```bash
 Streamlit run agent.py
 ```
+
+
+## Overview du chatbot
+<img width="1013" height="561" alt="image" src="https://github.com/user-attachments/assets/4e818dfd-9456-46f0-8076-6d4daa255cbb" />
