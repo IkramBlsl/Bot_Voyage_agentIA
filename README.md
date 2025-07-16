@@ -107,7 +107,7 @@ FAISS permet une recherche vectorielle rapide et efficace, en comparant les embe
 # 🇬🇧 English Version – `README.md`
 
 
-# 🧠 My LLM Agent (Free with Hugging Face + RAG)
+# 🧠 My LLM Agent (with Hugging Face + RAG)
 
 This project is a **simple conversational agent** powered by an open-source LLM hosted on Hugging Face and enhanced with a local knowledge base using RAG (Retrieval-Augmented Generation).
 
