@@ -1,6 +1,8 @@
-# 🧠 Mon Agent LLM (avec Hugging Face)
+# 🧠 Mon Agent LLM (avec Hugging Face) -- english version below
 
 Ce projet est un **agent conversationnel intelligent**, construit avec un modèle LLM open-source hébergé sur Hugging Face et enrichi par une base de connaissances via RAG (Retrieval-Augmented Generation).
+
+Le chatbot est deployé et accessible sur le [huggingface hub](https://huggingface.co/spaces/Ikraaaam/bot-voyage)
 
 ---
 
@@ -203,6 +205,7 @@ HF_TOKEN=hf_your_personal_token
 Streamlit run agent.py
 ```
 
+The chatbot is deployed and publicly accessible on [Huggingface hub](https://huggingface.co/spaces/Ikraaaam/bot-voyage)
 
 ## Overview du chatbot
 <img width="1013" height="561" alt="image" src="https://github.com/user-attachments/assets/4e818dfd-9456-46f0-8076-6d4daa255cbb" />
